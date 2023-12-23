@@ -1,0 +1,3 @@
+[submodule "lawncare"]
+	path = lawncare
+	url = https://github.com/AVCorn/avcorn-templates-lawncare.git

@@ -1,0 +1,9 @@
+{
+    "templates": [
+        {
+            "name": "Lawncare",
+            "description": "A template for lawncare businesses",
+            "path": "lawncare"
+        }
+    ]
+}
