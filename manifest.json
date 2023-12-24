@@ -3,7 +3,8 @@
         {
             "name": "Lawncare",
             "description": "A template for lawncare businesses",
-            "path": "lawncare"
+            "path": "lawncare",
+            "type": "business"
         }
     ]
 }
