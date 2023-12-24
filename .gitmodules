@@ -1,3 +1,25 @@
+[submodule "categories/marketing"]
+	path = categories/marketing
+	url = https://github.com/AVCorn/avcorn-templates-marketing.git
+	branch = main
+[submodule "categories/modern"]
+	path = categories/modern
+	url = https://github.com/AVCorn/avcorn-templates-modern.git
+	branch = main
+[submodule "categories/simple"]
+	path = categories/simple
+	url = https://github.com/AVCorn/avcorn-templates-simple.git
+	branch = main
+[submodule "categories/agency"]
+	path = categories/agency
+	url = https://github.com/AVCorn/avcorn-templates-agency.git
+	branch = main
+[submodule "categories/autoshop"]
+	path = categories/autoshop
+	url = https://github.com/AVCorn/avcorn-templates-autoshop.git
+	branch = main
 [submodule "categories/lawncare"]
 	path = categories/lawncare
 	url = https://github.com/AVCorn/avcorn-templates-lawncare.git
+	branch = main
+	
