@@ -1,10 +1,46 @@
 {
     "templates": [
         {
+            "name": "Agency",
+            "description": "A template for an agency",
+            "path": "agency",
+            "type": "business"
+        },
+        {
+            "name": "Autoshop",
+            "description": "A template for autoshop",
+            "path": "autoshop",
+            "type": "business"
+        },
+        {
+            "name": "Insurance",
+            "description": "A template for insurance company",
+            "path": "insurance",
+            "type": "business"
+        },
+        {
             "name": "Lawncare",
             "description": "A template for lawncare businesses",
             "path": "lawncare",
             "type": "business"
+        },
+        {
+            "name": "Marketing",
+            "description": "A template with a marketing astetic",
+            "path": "marketing",
+            "type": "general"
+        },
+        {
+            "name": "Modern",
+            "description": "A template with a modern astetic",
+            "path": "modern",
+            "type": "general"
+        },
+        {
+            "name": "Simple",
+            "description": "A simple template",
+            "path": "simple",
+            "type": "general"
         }
     ]
 }
