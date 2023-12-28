@@ -23,3 +23,6 @@
 	url = https://github.com/AVCorn/avcorn-templates-lawncare.git
 	branch = main
 	
+[submodule "categories/insurance"]
+	path = categories/insurance
+	url = https://github.com/AVCorn/avcorn-templates-insurance.git
