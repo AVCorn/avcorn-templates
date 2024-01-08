@@ -26,3 +26,6 @@
 [submodule "categories/insurance"]
 	path = categories/insurance
 	url = https://github.com/AVCorn/avcorn-templates-insurance.git
+[submodule "categories/coffeeshop"]
+	path = categories/coffeeshop
+	url = https://github.com/AVCorn/avcorn-templates-coffeeshop.git

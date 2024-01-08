@@ -13,5 +13,6 @@ Here lies a consortium of AVCorn templates, rolled in to one repo.
 *   [Simple](https://github.com/avcorn/avcorn-templates-simple)
 *   [Agency](https://github.com/avcorn/avcorn-templates-agency)
 *   [Autoshop](https://github.com/avcorn/avcorn-templates-autoshop)
+*   [Coffeeshop](https://github.com/avcorn/avcorn-templates-coffeeshop)
 *   [Insurance](https://github.com/avcorn/avcorn-templates-insurance)
 *   [Lawncare](https://github.com/avcorn/avcorn-templates-lawncare)
