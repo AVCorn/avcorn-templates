@@ -29,3 +29,6 @@
 [submodule "categories/coffeeshop"]
 	path = categories/coffeeshop
 	url = https://github.com/AVCorn/avcorn-templates-coffeeshop.git
+[submodule "categories/spa"]
+	path = categories/spa
+	url = https://github.com/AVCorn/acorn-templates-spa.git

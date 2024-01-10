@@ -16,3 +16,4 @@ Here lies a consortium of AVCorn templates, rolled in to one repo.
 *   [Coffeeshop](https://github.com/avcorn/avcorn-templates-coffeeshop)
 *   [Insurance](https://github.com/avcorn/avcorn-templates-insurance)
 *   [Lawncare](https://github.com/avcorn/avcorn-templates-lawncare)
+*   [Spa](https://github.com/avcorn/avcorn-templates-spa)

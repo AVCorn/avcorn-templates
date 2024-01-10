@@ -47,6 +47,12 @@
             "description": "A simple template",
             "path": "simple",
             "type": "general"
+        },
+        {
+            "name": "Spa",
+            "description": "A template for spa businesses",
+            "path": "spa",
+            "type": "business"
         }
     ]
 }
