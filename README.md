@@ -11,9 +11,11 @@ Here lies a consortium of AVCorn templates, rolled in to one repo.
 *   [Marketing](https://github.com/avcorn/avcorn-templates-marketing)
 *   [Modern](https://github.com/avcorn/avcorn-templates-modern)
 *   [Simple](https://github.com/avcorn/avcorn-templates-simple)
+
 *   [Agency](https://github.com/avcorn/avcorn-templates-agency)
 *   [Autoshop](https://github.com/avcorn/avcorn-templates-autoshop)
 *   [Coffeeshop](https://github.com/avcorn/avcorn-templates-coffeeshop)
 *   [Insurance](https://github.com/avcorn/avcorn-templates-insurance)
 *   [Lawncare](https://github.com/avcorn/avcorn-templates-lawncare)
+*   [Photographer](https://github.com/avcorn/avcorn-templates-photographer)
 *   [Spa](https://github.com/avcorn/avcorn-templates-spa)

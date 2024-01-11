@@ -43,6 +43,12 @@
             "type": "general"
         },
         {
+            "name": "Photographer",
+            "description": "A template for photographer businesses",
+            "path": "photographer",
+            "type": "business"
+        },
+        {
             "name": "Simple",
             "description": "A simple template",
             "path": "simple",
